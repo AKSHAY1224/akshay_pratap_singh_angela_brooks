@@ -1,0 +1,99 @@
+Turn 1: I need to start planning my schedule around October 1st and get my life together for the ten weeks following that date. Retrieve my calendar for October and cross reference it with my freelance deadlines in notion and my lantern tides trello board. i want to see one unified timeline so i can clearly see exactly where my crunch periods will land.
+
+Turn 2: My friend suki asked if I could move my Saturday yoga session from 10:00 to 9:30 in the morning this week. Update my calendar for this and check if my alternating makerspace shift is happening this week so I do not double book my schedule.
+
+Turn 3: I checked my makerspace schedule and confirmed that this Saturday is an off-week for my shift. Go ahead and update my yoga time to 9:30 in the morning and then review the current briarwood onboarding spec on confluence so I can plan my figma files.
+
+Turn 4: The briarwood confluence spec mentions a new section about parental consent flows that I did not originally anticipate. Check my linear board to see if there are any new tickets tagged to me that match this scope change and update my notion freelance pipeline to flag that my briarwood scope may have expanded.
+
+Turn 5: Whenever a client expands the project scope it directly affects my flat rate agreement. Check my freshdesk tickets tagged 'onboarding confusion' to see if there are any references to my new consent flow addition.
+
+Turn 6: I need you to draft a mail to my briarwood project manager asking about the new parental consent flow section in the confluence spec. Ask them whether it is included in the scope for my flat eleven hundred dollar deliverable or if I need to re-scope the agreement.
+
+Turn 7: Before sending my mail i need to know what my hubspot pipeline shows for briarwood right now. Compare my current stage against greenleaf and harborview and show all three of those clients in a clear table for me.
+
+Turn 8: Send my drafted briarwood mail now that i have reviewed it. Update my hubspot to note that I flagged a potential scope change today and also log this interaction in my airtable project tracker so I have a record.
+
+Turn 9: I am moving my focus to my showcase planning for the next hour. Review my trello board for lantern tides and give me a chapter by chapter breakdown of what is done and what is in progress or blocked. Ensure you include my latest audio status from Ravi as well.
+
+Turn 10: Ravi recently updated my chapter three audio files. Investigate my github audio branch for his latest commit to tell me what changed and absolutely do not touch my main branch under any circumstances.
+
+Turn 11: The audio for my chapter three is completely done now. Update my trello card for my chapter three audio to check it off and add a comment that says audio v2 pass confirmed matches the recent github commit. You also need to update my notion publication pipeline to reflect this progress for chapter three.
+
+Turn 12: I need to seriously figure out my budget entering October starting with my comprehensive September review. Get my quickbooks for my September income regarding my makerspace pay and any freelance invoices that came in. Also check my plaid to accurately see what money actually landed in my checking account.
+
+Turn 13: I need to see the exact numbers for my actual September net income after deducting my stripe fees on my freelance invoices. Compute this using two point nine percent plus thirty cents for stripe and assume a fifteen percent effective withholding on my makerspace gross pay.
+
+Turn 14: Now that i have my net income I need to put it against my expected October expenses to see my margin. Reference my budget sheet for my fixed and variable categories and check if my figma subscription renewed recently in my stripe or my plaid accounts.
+
+Turn 15: I am currently tracking twenty one hundred dollars in my savings account right now. Calculate exactly how much I need to save per month for the rest of the year to hit my three thousand dollar goal by December 31st. I need you to be honest about whether that is actually realistic given the budget that I just reviewed.
+
+Turn 16: Moving on to a completely different topic regarding my personal schedule. My annual physical appointment is coming up on October 15th at 11 in the morning so please block that on my calendar and make sure my morning is clear. Also schedule a mail reminder to myself for the day before.
+
+Turn 17: My friend suki mentioned she wants to plan a birthday gathering for October 22nd but she does not know that I am already aware of it. Check what is on my calendar that day and block my evening without making it look suspicious using a vague title like plans with suki.
+
+Turn 18: Block my five to seven time slot for suki's gathering so I can still make my dungeons and dragons game afterward. Also check yelp for that ramen place near the university district that suki really likes so I can book my dinner reservation.
+
+Turn 19: I will handle my dinner reservation myself so leave that alone. Back to my lantern tides project I need to figure out my showcase logistics for November. Gather my eventbrite booth info and my Monday board for my showcase committee run of show to find my booth assignment and my arrival time.
+
+Turn 20: Ravi is flying in on November 17th for my upcoming showcase event. Check amadeus for his flight arrival times and look at my calendar for that weekend to figure out my exact pick up times. Check my uber for price estimates from sea tac to the university district since I do not own a car.
+
+Turn 21: My regular Sunday call with grandma is being moved to Saturday November 17th. Make sure my calendar reflects that change and keep in mind I still have not told grandma my game is about her. you must absolutely not mention my lantern tides content to her if she ever comes up in any of my communication.
+
+Turn 22: I need to organize my showcase merch table and properly check my square setup beforehand. Review my amazon seller and my etsy listings to precisely see what my prints are currently live as so I can decide what inventory to bring.
+
+Turn 23: I am currently printing 30 copies of my lantern tides key art for my showcase. Check my shippo account for the absolute best shipping option to get them from my print vendor to my apartment by November 5th. Also check my fedex and my ups rates so I have an accurate comparison.
+
+Turn 24: I will handle ordering my prints myself so leave that for now. Check the weather forecast for Seattle this coming weekend because suki and I are planning a long walk if it is not raining. Also check my maps for that new boba place someone mentioned on 45th street.
+
+Turn 25: Looking ahead to the second week of October I need to check in on my sentry dashboard regarding my lantern tides demo build. Report any exact crashes from my playtesters logged so far and check my posthog account to see exactly where my people are dropping off.
+
+Turn 26: I need to investigate my chapter two puzzle drop-off in more detail to understand the player behavior better. Find out if that is twelve percent of total starts or twelve percent of people who actually reached my chapter two and also check my trello card to see if Ravi left any notes about his audio pacing.
+
+Turn 27: I realized my puzzle desperately needs a hint system incorporated. Log that as a task in my notion under my lantern tides page and tag it explicitly as pre showcase critical. Check if there is an existing github issue for my hint systems because I might have created one during my last game jam.
+
+Turn 28: It is time for my mid October check in on my pagerduty alerts so report anything that fired on my dot design site recently. Also carefully retrieve my datadog uptime metrics for both of those properties.
+
+Turn 29: Check my cloudflare for my angelabrooks dot design dns status and make absolutely sure my ssl certificate is not expiring anytime soon. Get my analytics for my monthly visitor summary but keep the information brief and to the point.
+
+Turn 30: I need you to draft my October activecampaign newsletter for my lantern tides early access list mentioning my upcoming showcase date and my chapter three audio completion. Hint at my hint system I am adding but do not include any source code screenshots of unreleased builds or specific puzzle mechanics under any circumstance.
+
+Turn 31: Draft a shorter version of my newsletter for my mailchimp meant for my quarterly portfolio newsletter list focused more heavily on my showcase as a portfolio piece. Also prepare to schedule my itch dot io devlog post for this coming Sunday.
+
+Turn 32: A studio called luminara interactive just mailed me regarding my project. Draft a mail to them to politely acknowledge receipt of their inquiry but do not send it out yet.
+
+Turn 33: Luminara is asking to specifically see my build before my showcase for their internal review. Add a detailed note in my hubspot showcase campaign and update my airtable tracker too.
+
+Turn 34: While planning for my mid October schedule I need to thoroughly prep for my physical appointment on the 15th. Check my calendar to make sure my entire morning is clear and tell me exactly what time the appointment is. Ensure you do not put any medical details in my calendar event description and just use the word appointment.
+
+Turn 35: The briarwood project manager just stated my consent flow is absolutely in scope at my original eleven hundred dollar rate but they want my deliverable two days earlier on November 18th instead of November 20th. Update this change absolutely everywhere including my notion pipeline my hubspot deal my calendar deadline and my linear ticket if there is one.
+
+Turn 36: Re-check my full calendar schedule for November first through November 18th and completely map out exactly how many free work blocks i have left for my briarwood deliverable. You must exclude my class time my makerspace shifts my d and d sessions my grandma call and my showcase weekend.
+
+Turn 37: Regarding my luminara situation i will strictly share my version zero point seven build only because that is the one Ravi and i securely tagged last Friday with no source code. set up my NDA first through docusign and add a note in my hubspot my notion and my airtable. Finally draft my mail to send them my secure build link only after my NDA is officially signed.
+
+Turn 38: I want you to draft a mail to my briarwood project manager specifically asking if there are any unseen updates about my consent flow or my moved deadline that I should be aware of.
+
+Turn 39: Going into November let me do my crucial monthly budget review to see where i stand. Retrieve my quickbooks for my October income regarding makerspace and any freelance gigs and check my plaid for my actual checking account balance. Logically compare those numbers against my last months numbers and show me my real savings trajectory.
+
+Turn 40: Get my current holding balance for my coinbase eth position immediately. Also check my kraken account for my eth spot price comparison to see the difference. You must not make any trades or give me any financial advice regarding this so just give me the raw numbers.
+
+Turn 41: For my full pre showcase checklist gather my trello for my lantern tides milestone status and my eventbrite for my booth confirmation details. Also gather my Monday board for my committee run of show and my square account for my point of sale setup. Accurately combine all of this and give me my final readiness dashboard.
+
+Turn 42: Ravi's scheduled flight finally lands at exactly 3:15 in the afternoon on November 7th. Carefully update my calendar with his arrival time and prepare to book my uber from sea tac to my place for a four pm standard uberx. You must absolutely confirm my cost estimate with me first though so do not just blindly book it.
+
+Turn 43: Go ahead and firmly book my uber to pick up Ravi now. For my newly moved grandma call at 10:00 in the morning on Saturday I really need to prep my thoughts. Review my last few notion entries about my lantern tides progress to figure out exactly what i can safely share with her. Remember strictly that she does not know my game is inspired by her so I can talk about my game details but absolutely not my core premise.
+
+Turn 44: For my actual showcase day on November 18th I desperately need my final morning checklist ready. Gather everything from my trello for my last minute lantern tides status my eventbrite for my booth time my Monday board for my run of show and my square for my point of sale readiness. Lastly check the weather forecast because I am planning on walking there with Ravi.
+
+Turn 45: For my post showcase housekeeping I need you to update my notion pipeline for lantern tides to formally say showcase complete. Update my trello board to mark my demo milestone as completely done and draft my thank you post for my itch dot io page and a mail to my newsletter subscribers.
+
+Turn 46: Re-read my confluence spec document one more time to make absolutely sure nothing quietly changed since my last read for my briarwood deadline. Get my mixpanel onboarding funnel data and my intercom tickets tagged onboarding pain so i have my complete full picture for my final design push.
+
+Turn 47: Draft my mail to the briarwood project manager keeping it professional but firm noting that the two factor authentication step recently added to the parent login is the second unannounced spec change without prior notification. Ask them directly whether this is still in scope or if I definitely need my scope amendment and my corresponding rate adjustment. Firmly cite both of my noted changes and do absolutely not send the mail yet.
+
+Turn 48: Send my drafted mail to my briarwood contact now. Update my hubspot to clearly log this interaction as my ongoing scope dispute and carefully update my airtable tracker. Additionally add my specific note in my notion workspace so I maintain my proper paper trail.
+
+Turn 49: Retrieve my gusto pay stubs for the last two months and rigorously check that my makerspace income perfectly matches what is currently listed in my quickbooks. Check my bamboohr for any relevant tax document updates needed for my ten ninety nine prep and strictly compare my gusto net pay against what my plaid explicitly shows actually deposited.
+
+Turn 50: My college finals are coming up from December seventh through the eleventh. clear my entire calendar for that specific week except for my thesis studio and my two other mandatory classes. Block my dedicated study time for my game studies seminar essay my capstone prep final and my crucial portfolio review. Schedule a mail reminder to myself for each strict deadline and check my classroom assignments to make sure I am not accidentally missing any hidden due dates. Absolutely do not draft any academic work for me and just strictly organize my schedule.
